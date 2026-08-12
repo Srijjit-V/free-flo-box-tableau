@@ -4,8 +4,6 @@ A Tableau dashboard analyzing menstrual product usage for Free Flo Box, a
 free menstrual-product access program, comparing two service locations
 (St. Anne's Hill and South Park) across 2025.
 
-**Live dashboard:** https://public.tableau.com/shared/YD4J533KG?:display_count=n&:origin=viz_share_link
-
 ## Research question
 
 How does the usage of menstrual products differ based on reusability and
